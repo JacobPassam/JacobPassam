@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there!
+
+I'm a 2nd-year MChem student at Durham with interests at the chemistry-biology interface.
+
+This site hosts some of my earlier project work (c. 2020-2022) in Java and Python.
+
+More recent technical experience includes Python for university-level data analysis and visualisation. I'm currently expanding my knowledge base into chemical simulations and the use of machine learning in biochemistry.
+
+Contactable at jacob.j.passam@durham.ac.uk
 
 <!--
 **JacobPassam/JacobPassam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
